@@ -1318,7 +1318,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config all</string>
+				<string>/usr/bin/python zotquery.py configure all</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1335,7 +1335,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen True</string>
+				<string>/usr/bin/python zotquery.py configure freshen True</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1419,7 +1419,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config prefs</string>
+				<string>/usr/bin/python zotquery.py configure prefs</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1608,7 +1608,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -1843,7 +1843,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2078,7 +2078,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2296,7 +2296,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2548,7 +2548,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2783,7 +2783,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -2934,7 +2934,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -3206,7 +3206,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>/usr/bin/python zotquery.py config freshen False</string>
+				<string>/usr/bin/python zotquery.py configure freshen False</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
